@@ -1,9 +1,6 @@
-'''
-
 A, B, C=[int(x) for x in input().split()]
 
-maior = (A + B + abs (A - B)) / 2
+maior = max(A, B, C)
 
-print(maior)
+print(f"{maior} eh o maior")
 
-'''
