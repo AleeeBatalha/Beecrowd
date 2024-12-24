@@ -15,4 +15,4 @@ Circle = float(input())
 
 multi = X * Circle**2
 
-print(f"A = {multi:.4f}")
+print(f"A={multi:.4f}")

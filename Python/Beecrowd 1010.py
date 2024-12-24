@@ -5,4 +5,4 @@ calc1 = B * C
 calc2 = E * F
 calcFinal = calc1 + calc2
 
-print(f"VALUE TO PAY = R$ {calcFinal:.2f}")
+print(f"VALOR A PAGAR: R$ {calcFinal:.2f}")

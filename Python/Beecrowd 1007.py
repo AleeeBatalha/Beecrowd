@@ -5,4 +5,4 @@ D = int(input())
 
 diff = A * B - C * D
 
-print(f"DIFFERENCE = {diff}")
+print(f"DIFERENCA = {diff}")
