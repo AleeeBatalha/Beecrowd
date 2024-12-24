@@ -6,7 +6,7 @@ Circle = float(input())
 
 multi = X * Circle**2
 
-print(f"A = {multi:.4f}") a
+print(f"A = {multi:.4f}") 
 
 '''
 X = 3.14159
